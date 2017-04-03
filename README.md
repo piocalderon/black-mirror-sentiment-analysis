@@ -3,4 +3,4 @@
 
 I love the TV show Black Mirror and wanted to do some data analysis on it. I settled on ranking the Black Mirror episodes according to how downbeat they are. For this, I used subtitles from <http://tvsubs.net>.
 
-I have a long post about this topic on my [blog](https://datameetsmedia.blogspot.com). Check it out if you’re interested.
+I have a long post about this topic on my [blog](https://datameetsmedia.wordpress.com). Check it out if you’re interested.
